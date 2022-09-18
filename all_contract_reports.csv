@@ -1,0 +1,632 @@
+address,name_tag,ether_balance,txn_count,etherscan_address_dataset_reported,token_name,usd_market_cap,n_holders,is_token,etherscan_token_dataset_reported,cryptoscamdb_reported
+0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F,CBDAO: BREE Token,0.0,6966.0,True,,,,,False,False
+0x64F0D720CE8B97ba44cd002005d2dFA3186C0580,Exit Scam YYFI Token,0.0,608.0,True,YYFI.finance (YYFI),0.0,371.0,True,True,False
+0x57b818a1070373E21FcEdf48d4368E1703c75852,Fake: Hero Token Sale 2,0.0,2.0,True,,,,,False,True
+0x6Eff949d9a4E7725D3EE3b894CeAA2813b7437E5,Fake: MARL Token,0.0,3.0,True,Marlin Protocol (MARL),0.0,3.0,True,True,False
+0x3018A3EaB048a0a1c15003b383A181F089A039cC,FAKE: Status.im 3,0.0,1.0,True,,,,,False,False
+0x2Dc5616EC2b9D24906F0e11dC8D8a736392dFeDD,Fake_Phishing1047,0.0,25.0,True,,,,,False,True
+0xcc7ecC050aaB5843c79f14933E207f032bc16B78,Fake_Phishing1059,0.0,36.0,True,,,,,False,False
+0x34bb6Cf517aBB83BFd8Bc4E41eD899810aC49b58,Fake_Phishing1064,0.0,14.0,True,,,,,False,False
+0xE87d279D090DF4Ba19C0e19958D9ac61Be5c6909,Fake_Phishing1081,0.0,0.0,True,,,,,False,True
+0x8A0E85901849B40A7F80399a00F7115193c0BDB2,Fake_Phishing1112,0.0,47.0,True,,,,,False,True
+0x0c8b740E3377F2BE7A108AebA6A2F660588c728d,Fake_Phishing1165,0.0,85.0,True,,,,,False,True
+0x903Dc47Aa7C40f9f59Ef1E5C167ce1A9B39a2bFF,Fake_Phishing1184,0.0,24.0,True,,,,,False,True
+0x9E19462787BE36e5E3676ad2428B26599Bf9866C,Fake_Phishing1203,0.0,202.0,True,,,,,False,False
+0x82B36a7410796a3bD2a0B206abb402b899B0A388,Fake_Phishing1225,0.0,1.0,True,,,,,False,False
+0x8d305Fd29aEbd6e0562dE9321d55E7f0E6fbaCaD,Fake_Phishing1395,0.0,27.0,True,,,,,False,True
+0x1aBC65765FD0DF7D997635EBE3027384BCF7923E,Fake_Phishing1426,0.0,19.0,True,,,,,False,True
+0x42265e06267D5857CE0d28094A122f453EE66d37,Fake_Phishing1463,0.0,5.0,True,,,,,False,False
+0x44525C8dd44b9D470937cC9E7a0275Eb14c7B01D,Fake_Phishing1466,0.0,82.0,True,,,,,False,False
+0xEDc702Ed96AccAE315A0F1E8Fa2d5a6bC4FeeA69,Fake_Phishing1586,0.0,38.0,True,,,,,False,True
+0x34959919244b18128d084834dBa11f0c91732eDe,Fake_Phishing159,0.0,81.0,True,,,,,False,False
+0x9a670a4E0Fa4DC648D1C3bF9D999FE985C9fFBA3,Fake_Phishing1622,0.0,6.0,True,,,,,False,False
+0x934a0a1BFE01eEb4415689d8E66e56e3F1f13077,Fake_Phishing1930,0.0,25.0,True,,,,,False,True
+0xD3ddAE456004Ed85639A39a9751192e80a967ED4,Fake_Phishing1931,0.0,25.0,True,,,,,False,True
+0x0a4A2413d7c604647c7788FD3564B3C54Fe06763,Fake_Phishing1932,0.027,35.0,True,,,,,False,True
+0x5F856630adBC27c0F5bC1DE1961D4f0fB1805a29,Fake_Phishing1959,0.0,8.0,True,,,,,False,False
+0x86035A913989D8d2bb631c0BD7657983666168d8,Fake_Phishing1960,0.0,21.0,True,,,,,False,False
+0xBFA82Fbe0e66d8E2B7dCC16328Db9eCd70533d13,Fake_Phishing1968,0.0,913.0,True,,,,,False,False
+0xeab52A23B08D141378546fa309f8A4db113c01Aa,Fake_Phishing214,0.0,1.0,True,,,,,False,False
+0x902D0d5Bb6A34307BBd1dA33E61Ae1654b6cBE1e,Fake_Phishing216,0.0,7.0,True,,,,,False,True
+0x702A8dbFfaC169e5F80e2F5c1cC18B2541887550,Fake_Phishing224,0.0,2.0,True,,,,,False,False
+0x890bcE348BAE449Df3783ba0E1C7eB82C557e2e8,Fake_Phishing2334,0.0,42.0,True,,,,,False,False
+0xB7741854BDB50e086A85722f6E280CD0515B9230,Fake_Phishing2342,0.0,6.0,True,,,,,False,False
+0x7355e49ba13082D3f83fD828Ee6FDA39738F1E55,Fake_Phishing2343,0.0,12.0,True,,,,,False,False
+0x540f17317e58AFa89A24c89c5df468AFfab64a09,Fake_Phishing2348,0.0,2.0,True,,,,,False,False
+0x50f73e2E02fE63f669fB3320960AA48f42cc99eF,Fake_Phishing239,0.0,6.0,True,,,,,False,False
+0xAE6E3C7160af3C1f524572E5b29C81E6Ff061D90,Fake_Phishing244,0.0,7.0,True,,,,,False,False
+0x8e1701e9509250d808eEca648feB1B8D7EeD0704,Fake_Phishing245,0.0,76.0,True,,,,,False,False
+0x4Bf3E4d2378a1256cbE1CD1C2a8BC9857b811282,Fake_Phishing248,0.0,19.0,True,,,,,False,False
+0x8C654FE2B20bCb48c484c0e1cC5fB3289bA47297,Fake_Phishing2528,0.0,18.0,True,,,,,False,False
+0xb547027A4CCD46EC98199Fa88AAEDF5aA981Db26,Fake_Phishing2581,1.0,3154.0,True,,,,,False,True
+0xe0787AabbD6EE01E55f98647673552885d54eb06,Fake_Phishing2600,0.0,199.0,True,,,,,False,False
+0xF31b4F7550833a746f788b36f2b292E5fA49a248,Fake_Phishing2618,0.0,27.0,True,Paxos Standard Token (PAX),0.0,16.0,True,True,True
+0x54ff8a2D0A94d4652cFa0F91E1AF092E718Ffb1b,Fake_Phishing2679,0.0,78.0,True,,,,,False,False
+0xE7860fD151CBbaD28141DfD4cc7CD6d090E4Ead8,Fake_Phishing2682,0.0,9.0,True,,,,,False,False
+0xEeAd01fC953Aea34212d56014aa61EaD16e76D4d,Fake_Phishing2705,0.0,30.0,True,,,,,False,True
+0x95115419B09E8Cea70a9bdbCA3fEe8C5e118B228,Fake_Phishing2722,0.0,7.0,True,,,,,False,True
+0x2abE6dBC3D9a3D731DB69A23dfc58827c0447CB9,Fake_Phishing2755,0.0,8.0,True,TrueEUR (TEUR),0.0,3.0,True,True,False
+0x219B9040eB7D8d8c2E8E84B87CE9ac1C83071980,Fake_Phishing2775,0.0,982.0,True,,,,,False,False
+0xb331728743D45a6470b8798320f2C173d41E4bFB,Fake_Phishing2777,0.0,6.0,True,,,,,False,False
+0x596f83E44d6e62Fc886222AFea468e14f4c3fec7,Fake_Phishing2779,0.0,1.0,True,,,,,False,False
+0x36794518B3Ef84C4B1A40AF9540A03292f692c38,Fake_Phishing2780,0.0,1.0,True,,,,,False,False
+0x8Fa86218ec14bB207B5Ae404c60a836c3d7cbB3A,Fake_Phishing2781,0.0,4.0,True,,,,,False,False
+0x7f30f5955B7605B96421e7C170eDBbC45b373cD9,Fake_Phishing2782,0.0,5.0,True,,,,,False,False
+0x53e00C6a2887f71BED5340cE369675dDaff4F42A,Fake_Phishing2783,0.0,1.0,True,,,,,False,False
+0x9C6625Dc8333b633c40a0C2f2a49379363763BA0,Fake_Phishing2784,0.0,16.0,True,,,,,False,False
+0x6c3bb918A1242bA4e32908D7bF4AddD7eF651e74,Fake_Phishing2785,0.0,1.0,True,,,,,False,False
+0x7d4Bf678252C1C85aA46E032Bf70E76439eE1708,Fake_Phishing2786,0.0,1.0,True,,,,,False,False
+0x697A260bA6365Ab241f7AEF057Da3587F0C255ca,Fake_Phishing2787,0.0,1.0,True,,,,,False,False
+0x7Db95f8d8D80A75D768A2F8b0Be392FF901d3fC8,Fake_Phishing2788,0.0,1.0,True,,,,,False,False
+0x409de70d8aD0135e6Fd91F343899b93d903C998b,Fake_Phishing2789,0.0,9.0,True,,,,,False,False
+0xBD806A9A7Ad8ce9d36048861DD63a295a3c9d5F2,Fake_Phishing2790,0.0,1.0,True,,,,,False,False
+0x203daffA152DAfAF2a859029f729B364Fc8540F8,Fake_Phishing2791,0.0,3.0,True,,,,,False,False
+0x6683a4Be619299c84cA1815BfD9540949b7bDdFe,Fake_Phishing2794,0.0,0.0,True,,,,,False,False
+0x29cc635a3968beEc56c6a3F5dA1C033A18EE1571,Fake_Phishing2799,0.0,40.0,True,,,,,False,False
+0x9e4563609f3315480821433C14f0E94E2f4fBb28,Fake_Phishing2812,0.035,4.0,True,,,,,False,False
+0xF9DC4422f9DeDb279C125012Fd5Ba93a973E607e,Fake_Phishing2813,0.0,2.0,True,,,,,False,False
+0xc1E6e4D9Fc0B7e555bb8634BcACc9A1067bEC039,Fake_Phishing2814,0.0,572.0,True,,,,,False,True
+0x4256117a02aC880335f8bFbEed63f92eC0001A5a,Fake_Phishing2821,0.0,34.0,True,,,,,False,True
+0xea7E05CB00b2430B486a2B866d4bB8adcf0EBa64,Fake_Phishing2841,0.0,15.0,True,,,,,False,False
+0xcDe98f7FCaaF6D2d3c30Ed41E32d40F91AecdB96,Fake_Phishing2843,0.0,20.0,True,,,,,False,False
+0x1bd913BBaDE46bF5AD8b1e5d117701fBEb078228,Fake_Phishing2845,0.0,79.0,True,,,,,False,False
+0xA0a3cce6068a735E20Bd047cdE6Bff19F638aE39,Fake_Phishing2852,0.0,16.0,True,,,,,False,False
+0xe0fF829cd4909e8E8680e9e0d9189b479C3BC5B8,Fake_Phishing2878,0.0,11.0,True,,,,,False,True
+0xa932DD6d00FeD9D1CD140275A5cAA32d0B1e0D68,Fake_Phishing2957,0.0,31.0,True,,,,,False,False
+0x65440e4CE8a9a596a20EC8f910DfC8b1a20c5f7a,Fake_Phishing2972,0.0,59.0,True,,,,,False,True
+0x9477f48a278909A94D8cd9480dFA85D07103F004,Fake_Phishing3069,0.0,756.0,True,Tether USD (USDT),0.0,343.0,True,True,False
+0x4a008b542165fEC7eC3343a35cEED6bC4F6b2280,Fake_Phishing3085,0.01503753,2274.0,True,,,,,False,False
+0x4fd942e51d15cdb966b58C3297D6d7E24d27480B,Fake_Phishing3112,0.0,4.0,True,,,,,False,False
+0xf2effC1cD320Ff062BaE8649d150dBEa3Cb6b189,Fake_Phishing3132,0.0,69.0,True,Ethereum (ETH),0.0,62.0,True,True,False
+0x870CBbD204D5e2317c60374888e4b6be3BFA092B,Fake_Phishing3189,0.0,10.0,True,Tellor (TRB),0.0,3.0,True,True,False
+0x4711c198e6f04C02413794568990B6A835E8EaD9,Fake_Phishing319,0.0,76.0,True,,,,,False,False
+0xB507eBC4c6B65a11502fe5F20f8cEebc7E155fB4,Fake_Phishing3368,0.0,686.0,True,,,,,False,False
+0xb15882a04E840946cB12B41bD070DFE7B1486f93,Fake_Phishing3426,0.0,425.0,True,,,,,False,False
+0xb197af2df029e3367316aDBEA2f871fdb011ccCa,Fake_Phishing3537,0.0,181.0,True,,,,,False,False
+0xA77db707916aDEff81042ca57656931CcD8f428e,Fake_Phishing3628,0.0,92.0,True,,,,,False,False
+0x964432e4cFDf1463167D21815BCF9463cf19eA49,Fake_Phishing363,0.0,102.0,True,,,,,False,False
+0x48A421A2905FD4C021d075eC049d1dB2433242E4,Fake_Phishing3636,0.0,6.0,True,,,,,False,False
+0x5653b0a525A73BA2376e7F97E50B96F5F01531Cf,Fake_Phishing3637,0.0,3.0,True,,,,,False,False
+0x6032D639E634E788FcE323B316E06d18194f99A8,Fake_Phishing3665,0.0,17.0,True,,,,,False,False
+0x8E22c4713896cf2B69A0CC1B206C8FAd980DB322,Fake_Phishing3806,0.0,30.0,True,,,,,False,False
+0xD5b32a25Bb674a3fdD5FAa0549276E6d192982cF,Fake_Phishing3808,0.0,4.0,True,,,,,False,False
+0xcC1CE5c8763f3046dE155926C39bebB0f9365995,Fake_Phishing3809,0.0,15.0,True,polkaswap.io (PSWAP),0.0,10.0,True,True,False
+0x48Ca1b283148a9C90BB443C45360f1dd19b47F12,Fake_Phishing3816,0.0,8.0,True,,,,,False,False
+0x06Ad9bACC335d658550c3bE1FD1A2972F0ed6EfD,Fake_Phishing3817,0.0,8.0,True,bisontrails (BOT),0.0,8.0,True,True,False
+0xD510D55710F5963D3BF64c74491A886b4670b611,Fake_Phishing3819,0.0,9.0,True,,,,,False,False
+0x20F1Ce2ece9b82fbE501cf4AD62Dd7f7Dce52534,Fake_Phishing3820,0.0,4.0,True,,,,,False,False
+0x4aef20778A2E8E3EDEAB721ed235264F00bb6d20,Fake_Phishing3821,0.0,3.0,True,,,,,False,False
+0xeB17037Df15F171163D82C586c5b65Ef112924Ca,Fake_Phishing3832,0.0,250.0,True,,,,,False,False
+0xDE97bea954E1F1a102876df225BBb4f014d0c487,Fake_Phishing3848,0.0,6.0,True,,,,,False,False
+0xe14417012F306B89d0138feD7a04A134C978D5A2,Fake_Phishing3849,0.0,7.0,True,nexusmutual (NXM),0.0,6.0,True,True,False
+0x49C5cd3B1aD9718dB6e275B1B3D81C459CB59a6A,Fake_Phishing3852,0.0,5.0,True,Nexus Mutual (NXM),0.0,8.0,True,True,False
+0x165B6749812900538402CD540c55be68411F8Ea0,Fake_Phishing3908,0.0,10.0,True,,,,,False,False
+0x388Cf3c02c034e7fe8ef164A2B414534fC212119,Fake_Phishing3948,0.0,149.0,True,,,,,False,True
+0xEb411D5Df13AC7020992306e78955fb7CBa5f260,Fake_Phishing3966,0.0,10.0,True,,,,,False,True
+0xE3D474F3686a831BF380498D1dbd57FDf972CA30,Fake_Phishing3984,0.0,39.0,True,,,,,False,True
+0x0669398307EfeFB60030ff328a0cB6A3A840182c,Fake_Phishing3992,0.0,43.0,True,,,,,False,True
+0x8105ED8A3BE363e32c91A0904Cd59E0f843d7123,Fake_Phishing3993,0.0,2.0,True,,,,,False,True
+0xa95171e49A7e187585C0d5CdE0c209b76a5fD220,Fake_Phishing4002,0.0,40.0,True,,,,,False,True
+0x02Fd82cBA3baE39484D5eB7f75B5f3D5F418c691,Fake_Phishing4106,0.0,146.0,True,,,,,False,True
+0x11343194B9Ba84C8E5629ffec4F604f410ED28Fc,Fake_Phishing4132,0.0,43.0,True,,,,,False,False
+0x573B7846e365050517C022A70c5f1bdCA76d58Ac,Fake_Phishing4186,0.0,2.0,True,Lien.Finance (LIEN),0.0,3.0,True,True,False
+0x35309E0e5e86902FbD53D2d0C2f25da9f3842dB3,Fake_Phishing4187,0.0,5.0,True,BRRR.fi 50x v2 (BR10X),0.0,6.0,True,True,False
+0x0cC4682b1465BD3bf3B9b13DbD310A1f37c7500D,Fake_Phishing4188,0.0,5.0,True,StaFi Protocol (FIS),0.0,3.0,True,True,False
+0xCF1e4C2899ED260dCC68da9BBd986D8Ea1c740D9,Fake_Phishing4219,0.0,7.0,True,,,,,False,False
+0x13D0f60B2AaaCCbaB97551219b16BC41dAc84C5A,Fake_Phishing4226,0.0,22.0,True,,,,,False,False
+0x514eFa2Ecc1bE6228e46f45999DeE7f1E9ed7b9a,Fake_Phishing4228,0.0,61.0,True,,,,,False,False
+0xca03CC32Bb8063261aa6Ff488B89DA5B0f8A487e,Fake_Phishing4240,0.0,7.0,True,,,,,False,False
+0xE32Da8605e6d4802F9Fa9A5e3776c12E06cB93f1,Fake_Phishing4262,0.0,4.0,True,,,,,False,False
+0x1EA3eCc937bAE79353d198db2cdAB1e5Cbe625DD,Fake_Phishing4345,0.0,56.0,True,,,,,False,False
+0x2306934CA884CAA042DC595371003093092b2BBf,Fake_Phishing4347,0.0,539.0,True,,,,,False,False
+0x69bBF9a44B46083DAd05D070422AAEAfaca3204C,Fake_Phishing4366,0.0,72.0,True,,,,,False,False
+0x0913e0169F5129185C3934920d3CF6E5f56bD3BE,Fake_Phishing4367,0.0,73.0,True,,,,,False,False
+0x74fe63027ccD88f9cfFE4255fDF2075243582CE3,Fake_Phishing4378,0.0,11.0,True,,,,,False,False
+0x125aFEd1Eb0e75C20D919f875F0C952311a8AF40,Fake_Phishing4379,0.0,10.0,True,,,,,False,False
+0x8Ab2A5c943d71959E73DCD7c075947C27D63CFFd,Fake_Phishing4399,0.0,5.0,True,,,,,False,False
+0x3C8EF342CCE872c8Ee4A41B8539B3ce95E2fE699,Fake_Phishing4432,0.0,2.0,True,,,,,False,False
+0x00bBD61f1f46BB2882E59aF47B69Dd7B501d5317,Fake_Phishing4447,0.0,4.0,True,,,,,False,False
+0xADd375ffb70902BacFAFC7F4Fb92f05650Caf537,Fake_Phishing4459,0.0,7.0,True,,,,,False,False
+0x27f97BC09A4e28D5935a08e2810b3E3C94f04220,Fake_Phishing4473,5.0,762.0,True,,,,,False,False
+0x49Dd6D0B21C1156E90b9934A9F2C5F427adD5fb6,Fake_Phishing4479,0.0,3.0,True,,,,,False,False
+0x9AeEB96044d3eB81F1faC7f81e2A5CF89cf31ee6,Fake_Phishing4496,0.0,10.0,True,PolkaSwap (PSWAP),0.0,14.0,True,True,False
+0x1de23F02E185fDc4f6BACc98D6c6419370E38538,Fake_Phishing45,0.0,31.0,True,,,,,False,True
+0x6618Dd109eE9DC93026ab36ab6AB7b4FbdE0411B,Fake_Phishing4502,0.0,4.0,True,,,,,False,False
+0xFF7c3b7F4e4260097a33C9dcc291B9D1BAf2EDB5,Fake_Phishing4526,0.0,53.0,True,,,,,False,False
+0x9C51699b4CD43Ba4F6bc81D70b21291B63e6D130,Fake_Phishing4544,0.0,1973.0,True,YFDiamond.finance (YFD),0.0,3358.0,True,True,False
+0x6574C0bF7F3D144F5837acC160773eC8f2a5CDE9,Fake_Phishing4545,0.0,1.0,True,,,,,False,False
+0x8bECE7F1daC4834af77c6bb78B008A04cf861d53,Fake_Phishing4554,0.0,19.0,True,,,,,False,False
+0x74148005E17094CD696B520c8f00a5B429CACc8C,Fake_Phishing4555,0.0,2.0,True,,,,,False,False
+0xaA74C85158Be3Cef42140a2d59C063862463C703,Fake_Phishing4594,0.0,3.0,True,,,,,False,False
+0xe45F73DaD6af24273B361f02c3749f13c2231080,Fake_Phishing4596,0.0,23.0,True,PowerIndex (PIPT),0.0,99.0,True,True,False
+0x6123E31bF9384Ac5946d3affbC830749c4999F58,Fake_Phishing4597,0.0,5.0,True,PowerPool.Finance (CVP),0.0,4.0,True,True,False
+0x12b62faD1F5BAC3E3653d05422C4816b91a438aD,Fake_Phishing4600,0.0,5.0,True,,,,,False,False
+0x4E344fA2aC01F1Fb53B388FAd51427de170241A4,Fake_Phishing4609,0.0,6.0,True,,,,,False,False
+0x5F5729010C873232f0Ef6a68dCa7455cc11dE0e2,Fake_Phishing4618,0.0,179.0,True,,,,,False,False
+0xd2d64D3758928A09448D6A865B8bd5F325777876,Fake_Phishing4619,0.0,8.0,True,Yearn Ecosystem Token Index (YETI),0.0,7.0,True,True,False
+0x263855ebFe85a1532fFD3EF21deE111378bE8514,Fake_Phishing4620,0.0,4.0,True,Yearn Ecosystem Token Index (YeTI),0.0,12.0,True,True,False
+0xfe75aEE72700Ff0e0742C00D12acF2724827fa00,Fake_Phishing4621,0.0,9.0,True,Yearn Ecosystem Token Index (YETI),0.0,11.0,True,True,False
+0x2E43EBAFE93B726E5B87916D00Ea3827da897257,Fake_Phishing4627,0.0,9.0,True,Ether.Insure (EIN),0.0,2.0,True,True,False
+0xA358cF2d2CB8a447b45846a4456d6E7c08D2eE7c,Fake_Phishing4629,0.0,2.0,True,,,,,False,False
+0x197e45d545F4DA0C3f15002222BcADDd9D3D7D37,Fake_Phishing4639,0.0,2.0,True,,,,,False,False
+0xa2065164a26eCD3775dcF22510Ad1d2DaEf8Bd2a,Fake_Phishing4684,0.0,1492.0,True,,,,,False,False
+0x113acf282eEB4D71Bec61aD83e934bf75bf8253F,Fake_Phishing4685,0.0,251.0,True,,,,,False,False
+0xa5978a61a90AE7217C60c7b275343CE244a053cc,Fake_Phishing4695,0.0,8.0,True,,,,,False,False
+0x8f9A8Dc65A423C7Dec9261aA6010DB738407C879,Fake_Phishing4699,0.0,2082.0,True,,,,,False,False
+0x093fAd33c3Ff3534428Fd18126235E1e44fA0d19,Fake_Phishing4700,0.0,63.0,True,,,,,False,False
+0x4D9F1714363D4cBdDFEC9b8F8469df594b2368D5,Fake_Phishing4725,0.0,19.0,True,Zerion (ZRO),0.0,202.0,True,True,False
+0xE91843ED2071f12cb4D3189742D40668A6ab789D,Fake_Phishing4726,0.0,46.0,True,Ribbon Finance (rBON),0.0,299.0,True,True,False
+0x800D2b0cdfbeBf9437565B0bB7426fD2E796B9CD,Fake_Phishing4734,0.0,6.0,True,,,,,False,False
+0x4C334F280F9e440788b66C4E5260C03E4477267A,Fake_Phishing4735,0.0,52.0,True,,,,,False,False
+0x3C0470b476aA3bF615Bc828a6B2006AAbAB440Da,Fake_Phishing4740,0.0,54.0,True,,,,,False,False
+0xb7C06096b7cf4622AE0da4ebc929649463C8692f,Fake_Phishing4750,0.0,28.0,True,,,,,False,False
+0x414BCA672494B8F078112c52ae258F9e8De1A4a0,Fake_Phishing476,0.0,4.0,True,,,,,False,True
+0xb101F0EB0a8938769D4c3fd4F933B11627CA3768,Fake_Phishing4780,0.0,565.0,True,,,,,False,False
+0x02745AD75E786f0B2efbD99504E22C3CaCe354c1,Fake_Phishing4849,0.0,51.0,True,,,,,False,False
+0xCeA855fA322F01F15a965F55cC6cDEaDb9AE59f7,Fake_Phishing4862,0.0,64.0,True,,,,,False,False
+0xfb5C7AA982ebcEd4384eeC4d5e732A28759ebDF8,Fake_Phishing4866,0.0,4.0,True,,,,,False,False
+0x0fD4E58aBacbB7339695a3D8Ef53DC9BeAd3D15E,Fake_Phishing4903,0.0,3.0,True,,,,,False,False
+0x52E8EbF98Ef95D373d29041182830BF13c52588F,Fake_Phishing4904,0.0,91.0,True,,,,,False,False
+0x820FA2199B16a32C8Dd28641Ed3cA85388b1Ed04,Fake_Phishing4905,0.0,16.0,True,,,,,False,False
+0xC106a08f553486985005F4721Ef1611C3798E0bE,Fake_Phishing4906,0.0,15.0,True,,,,,False,False
+0x5a907E5B94987c46e2FD51B01a7Dd651248367A0,Fake_Phishing4910,0.0,1.0,True,,,,,False,False
+0x0AaBEbdabC7640410Af5d901d4e460F174A4C946,Fake_Phishing4912,0.0,79.0,True,,,,,False,False
+0x8D9621943cAF6081D2745394A1d23Da9a963F049,Fake_Phishing4925,0.0,32.0,True,Axie Governance Token (AXG),0.0,423.0,True,True,False
+0x65088f603a0998876EFe5a786fa64eE13E667E0b,Fake_Phishing4930,0.0,19.0,True,twitter.com/AdexToken (📈ADEX),0.0,36.0,True,True,False
+0x34278F6f40079eae344cbaC61a764Bcf85AfC949,Fake_Phishing4953,0.0,624.0,True,FF9.io (FF9.io),0.0,106102.0,True,True,True
+0x2CEeE24f8D03fC25648c68C8e6569AA0512F6Ac3,Fake_Phishing4954,0.0,278.0,True,Spam Token,0.0,51760.0,True,True,True
+0xa4f5Dd69Db954c71587173De7d5D7DD330111766,Fake_Phishing4955,0.0,25.0,True,UMBRA CASH (UMBRA),0.0,83.0,True,True,False
+0x76175599887730786bdA1545D0D7AcE8737fEBB1,Fake_Phishing4962,0.0,18.0,True,ENS DAO (ENS),0.0,53.0,True,True,False
+0xeDA0785EBbbA90BF1aC4A1Cc07fBF9c9452c0dB8,Fake_Phishing4963,0.0,11.0,True,ENS DAO TOKEN (ENS),0.0,9.0,True,True,False
+0xC8FCF92e0Ad8D545BF5709Bb5BA2be5FAfDFe85b,Fake_Phishing4964,0.0,11.0,True,Ethereum Name Service (ENS),0.0,107.0,True,True,False
+0x6a7C5CC282A0A437Eb6D7Dc5BEB304f961ac6411,Fake_Phishing4965,0.0,56.0,True,meta.com (META),0.0,144.0,True,True,False
+0x003Eb9C77B5B896fcC27aDEAd606d23DeF34510e,Fake_Phishing4966,0.0,89.0,True,Ethereum Name Service (ENS),0.0,136.0,True,True,False
+0x77Fd8020284A592BC782EBd05b693d7FE1cc614E,Fake_Phishing4974,0.0,13.0,True,Temple (TEMPLE),0.0,30.0,True,True,False
+0x1C3e61c8825Bf58303B1ac3350843FaA01dE22bd,Fake_Phishing4975,0.0,60.0,True,,,,,False,False
+0x671167fFA438C87F134395d68b820d5a42202214,Fake_Phishing4978,0.0,24.0,True,OpenSea (OS),0.0,17.0,True,True,False
+0x96036E9b51f03CabB6fe30daad1544a73f795eFc,Fake_Phishing4979,0.0,909.0,True,,,,,False,False
+0xE460f3E0AdC58357ea5E3AC1D839611DEE826354,Fake_Phishing4993,0.0,20.0,True,Boba Token (BOBA),0.0,283.0,True,True,False
+0x3fCB2D173389b7CD8079Ef8B439dBd92e7E0AE28,FAKE_Phishing50,0.0,28.0,True,,,,,False,True
+0x1412ECa9dc7daEf60451e3155bB8Dbf9DA349933,Fake_Phishing5000,0.0,533.0,True,A68.net (A68.net),0.0,69580.0,True,True,False
+0x6D38b496dCc9664C6908D8Afba6ff926887Fc359,Fake_Phishing5020,0.0,47.0,True,Gearbox (GEAR),0.0,81.0,True,True,False
+0x5c8abE1E0b004595C6E945d5Adb3CEa2debe3cDF,Fake_Phishing5030,0.0,29.0,True,fees.wtf DAO (FEES),0.0,55.0,True,True,False
+0xF9d25EB4C75ed744596392cf89074aFaA43614a8,Fake_Phishing5034,0.0,1529.0,True,Up1.org (Up1.org),0.0,61219.0,True,True,False
+0x16b3Dd2970AD3F19C6068C65777530830d33773E,Fake_Phishing5103,0.0,555.0,True,SFAr.io (SFA),0.0,30399.0,True,True,False
+0x9A925F57baCDef5cA5d13ecF08bA9EE55A9B0585,Fake_Phishing5106,0.0,37.0,True,,,,,False,False
+0x609e209846E3cd2363905df9fd85CB4b47a0755E,Fake_Phishing5107,0.0,29.0,True,Mineral Gate (Mineral Gate),0.0,,True,True,False
+0x3610D80Ef3E2CA614b940A43B8B3ADD4FD09A61B,Fake_Phishing5108,0.0,20.0,True,Battle Gate (Battle Gate),0.0,,True,True,False
+0x7BCf0668ff60A2CB83F04fBee94838eD1f394893,Fake_Phishing5132,0.0,22.0,True,,,,,False,False
+0x4ab16CDc82a4eA4727Ab40caee1bb46622C13641,Fake_Phishing5168,0.0,26.0,True,Sablier: Governance Token (SABLIER),0.0,245.0,True,True,False
+0xa2c0946aD444DCCf990394C5cBe019a858A945bD,Fake_Phishing5176,0.0,24.0,True,,,,,False,False
+0xBa663f63eE6eF36d8778615dB2b90679F605D8B4,Fake_Phishing525,0.0,2.0,True,,,,,False,False
+0xf97Bd29b8eE6E246Eb57eEcf5D0E8486366113fB,Fake_Phishing5365,0.0,117.0,True,,,,,False,False
+0x2f28755A4f7d85fdd53185cc4c9e5fc182B8F8e0,Fake_Phishing5436,0.0,18.0,True,InvisibIe Friends (INVSBLE),0.0,,True,True,False
+0xe44c8Ee0622647D2563a8B2732941772328a751b,Fake_Phishing5437,0.0,79.0,True,Imaginary Ones (Imaginary Ones),0.0,548.0,True,True,False
+0x743f577230cb0F914F37eF62CBbE015Cde6DBB10,Fake_Phishing5438,0.0,36.0,True,APPLE (APPLE),0.0,,True,True,False
+0x402DB7bC77C259ce3fe639B1d5c6CD94Eb35547c,Fake_Phishing5464,0.0,267.0,True,,,,,False,False
+0x4a96e9b57a229d94c0c28950355A72Fa9e70aae3,Fake_Phishing5570,0.0,103.0,True,,,,,False,False
+0xefef14C36C1F2de2ca3772Ba9539B6A58cFd562c,Fake_Phishing5670,0.0,62.0,True,,,,,False,False
+0x95c8A1F33EdaA7e17Fd3304Fd121F960a21FFf1b,Fake_Phishing5689,0.0,41.0,True,Infura (Infura),0.0,33.0,True,True,False
+0xB8d36015dDc669557D424121cE21ba1dcF7a0860,Fake_Phishing5691,0.0,31.0,True,Arbitrum (Arb),0.0,403.0,True,True,False
+0xcB3315A42E76b70D2f3e8E595a5d13855c2e14CC,Fake_Phishing5714,0.0,26.0,True,,,,,False,False
+0x50228D83eeB60F31F6E58A0BD608228e9A17fe03,Fake_Phishing578,0.0,77.0,True,,,,,False,False
+0xdE6135B63dEcC47d5A5D47834A7dD241fE61945A,Fake_Phishing5816,0.0,126.0,True,,,,,False,False
+0xF403a2c10B0B9feF8f0d4F931df5d86aD187AE31,Fake_Phishing5836,0.0,2.0,True,,,,,False,False
+0x72a1A639C69F8002F035a7DC231d634D74e6b86E,Fake_Phishing5837,0.0,2.0,True,,,,,False,False
+0x3267EAd61cEB7D16c5eCc2BE572Ccf0538824E2f,Fake_Phishing5839,0.0,39.0,True,,,,,False,False
+0xA1da0E05114B5CD243Ad7eB2b09BAf90d7755EDf,Fake_Phishing5840,0.0,2.0,True,,,,,False,False
+0x3FE61E2306999EEaaFF2a3ac1d0fADA6F566587E,Fake_Phishing5841,0.0,2.0,True,,,,,False,False
+0xdc2933aB1918678bcfD13BcD653A20C0e9CEBA9a,Fake_Phishing5842,0.0,2.0,True,,,,,False,False
+0xCc320Aa1FE572798A1F900cFa0dF6524B04c9624,Fake_Phishing5843,0.0,2.0,True,,,,,False,False
+0x8014FB4882b1f99a3E60AEce1d39400560D986ae,Fake_Phishing5844,0.0,2.0,True,,,,,False,False
+0x65a8135596AE13C0Dd5c17bA1059C61Bc42D3B2f,Fake_Phishing5845,0.0,2.0,True,,,,,False,False
+0xcf50193c27DF08423BFe813676541B2268789332,Fake_Phishing5846,0.0,2.0,True,,,,,False,False
+0x80142A55F0f4F6Bf6b5644B8C1f8A3cfeD0086Ae,Fake_Phishing5847,0.0,2.0,True,,,,,False,False
+0x8014ae6574CAcE1f2435a86d4ea0472f466786ae,Fake_Phishing5848,0.0,4.0,True,,,,,False,False
+0xCC326C1D41f64c5331bc7Ba555d75306C3159624,Fake_Phishing5849,0.0,2.0,True,,,,,False,False
+0xDD499857c8539bEF04477B52782bE6A9FbD3c82b,Fake_Phishing5850,0.0,2.0,True,,,,,False,False
+0x65A8EC2C367A2d60EFC1944c6eAB614d73453B2f,Fake_Phishing5852,0.0,2.0,True,,,,,False,False
+0xd88AeBF8Ea65Fd5b467ddeBc9709a8008aE4FB66,Fake_Phishing5854,0.0,1.0,True,,,,,False,False
+0x3450bc589D93BAD1B1A48f8013289aD52F6bAcfD,Fake_Phishing5950,0.0,43.0,True,,,,,False,False
+0x8Ba9512714fd69be49883E755cfb82ec46C6bD11,Fake_Phishing606,0.0,12.0,True,,,,,False,False
+0x2A2aA50450811Ae589847D670cB913dF763318E8,Fake_Phishing6090,0.0,10.0,True,,,,,False,False
+0xd13b093EAfA3878De27183388Fea7D0D2B0AbF9E,Fake_Phishing6102,0.31530333,346.0,True,,,,,False,False
+0xD5bC1dE8fa494fAf0719d28DB264fDce6af755eB,Fake_Phishing6110,0.0,1.0,True,,,,,False,False
+0xf2BaD87c0d0Ea8bDA69C722368df4F79D92EE6c9,Fake_Phishing614,0.0,682.0,True,,,,,False,False
+0xdF5f1C927e639e3448726c269CD112Da5F1d4Ef3,Fake_Phishing6158,0.0,97.0,True,,,,,False,False
+0x7b7A7F26DB00692ED0Bf7Cc5aa842f1A9706E296,Fake_Phishing6160,0.00186083,303.0,True,,,,,False,False
+0xc97dDC36e15e4c98d5c19245110391eB9C97eF4f,Fake_Phishing6189,0.0,6.0,True,,,,,False,False
+0x9f49b1aa9Cc6195DEfE1F49343B15196Abab85E0,Fake_Phishing6209,0.0,1.0,True,,,,,False,False
+0x6642cEc9d02e4e669103a3Ed4F3505F437b8fe73,Fake_Phishing672,0.0,174.0,True,,,,,False,True
+0x903bb9cD3a276d8f18Fa6EFeD49B9bc52cCF06e5,Fake_Phishing749,0.0,5233.0,True,,,,,False,False
+0x70305B080eFc49eB5DFb9bdA78Aea516c398f804,Fake_Phishing750,0.0,456.0,True,,,,,False,False
+0x7a18CfC4a36E48163034E51A9Ed19D4bdEa05F6f,Fake_Phishing76,0.0,6.0,True,,,,,False,True
+0x46d1ebf7BB93044E078e0496e4661ec772607d9d,Fake_Phishing781,0.0,16.0,True,,,,,False,False
+0x5e5D6f6706420F932d796C0F28A83B26dabcFd8D,Fake_Phishing79,0.0,18.0,True,,,,,False,True
+0xe8868E87aAA4a0d0751691f9f33b0e5Da7127039,Fake_Phishing790,0.00056961,2904.0,True,,,,,False,False
+0x6FaAEB4050Fc4b15b131eFF2ea887De829e9fC3f,Fake_Phishing792,0.0,8.0,True,,,,,False,False
+0x6Ef982f9E7F09d4bF4a70398707c82970a6Dc31E,Fake_Phishing798,0.0,50.0,True,,,,,False,False
+0x8822f619A9dD64D17Caa3f5CA1B257808f7369bD,Fake_Phishing80,0.0,43.0,True,,,,,False,False
+0x0Da4eB121142879Db7cB4bCA6693c94154D07339,Fake_Phishing805,0.0,29.0,True,,,,,False,False
+0x995E8E4F271B1B549Ac074d26d8B9b5307Fe9fa5,Fake_Phishing816,0.0,36.0,True,,,,,False,False
+0x0d4f74C538613ed6e6c8c1Bc8896ecfD45f5Ef23,Fake_Phishing823,0.0,210.0,True,,,,,False,True
+0x98198d7eCc42a3E18D3fc52957db46930cf1d2e8,Fake_Phishing895,0.0,18.0,True,,,,,False,True
+0xc25ab34E7F3a1eb2C6a3a23DF851F351df0E712A,Fake_Phishing917,0.0,2.0,True,,,,,False,True
+0x3f2b1dd5877cF9611497B6619D288E77e2D58EF3,Fake_Phishing934,0.0,4.0,True,,,,,False,False
+0x5c06bf92669ea4A11B808E65abE65b7c7302e0b9,Fake_Phishing97,0.0,27.0,True,,,,,False,False
+0x70bada9AFADF5fdeF08CA8e5dB1169c039707580,Fake_Phishing975,0.0,10.0,True,,,,,False,False
+0x967582dEBedf069111973313E29bC7c5F713b80a,Uniswap V2: BOT,0.0,0.0,True,Uniswap V2 (UNI-V2),0.0,1.0,True,True,False
+0x8e10f088e0a046b2467F89114520381F2b5d7873,Uniswap V2: LIEN,0.0,0.0,True,Uniswap V2 (UNI-V2),0.0,1.0,True,True,False
+0x1a85A80F6c192a86e3bd5D046C8F421d7947DbCd,Uniswap V2: NXM,0.0,0.0,True,Uniswap V2 (UNI-V2),0.0,2.0,True,True,False
+0x559ccdEd35e1509465CB30Ce6555b571F2a5A55f,Uniswap V2: NXM 2,0.0,1.0,True,Uniswap V2 (UNI-V2),0.0,1.0,True,True,False
+0xC3E9287e2c028ebBAE2001F477DC22EdE80eD829,Uniswap V2: PSWAP,0.0,1.0,True,,,,,False,False
+0x794ECf3d86271d3D5Efd64B49e46F5B70680373e,Uniswap V2: rBON,0.0,0.0,True,Uniswap V2 (UNI-V2),0.0,1.0,True,True,False
+0x2BcA419E570B1620B5e922Fc005e806453aFFc83,YYFI.finance: balancer,0.0,616.0,True,,,,,False,False
+0xe4Ffd96b5E6d2b6CDB91030C48Cc932756c951B5,YYFI.finance: yearn,0.0,773.0,True,,,,,False,False
+0xDb3E6295067be156219fd790d4b9C326f95368F1,,,,False,FDIC Coin (FDIC),0.0,8.0,True,True,False
+0x01012022D43a3f85196A6bEa96Dfdb7350fDAa3c,,,,False,Happy New Year (2022),0.0,380.0,True,True,False
+0x2c9743a7d4B8d39884e8E919372157711d54CCE1,,,,False,APPLE (APPLE),0.0,,True,True,False
+0x7fb83740362bDf16eFB6ABe05348ad419270f7d3,,,,False,Wrapped Ether (WETH),0.0,9.0,True,True,False
+0x120aA018634F555484c088c8da80F75Aa07E004F,,,,False,aWETH.io (aWETH.io),0.0,34891.0,True,True,False
+0x7cd0341D749D9eDC352fA9899D0a8e07a955038F,,,,False,Spam Token,0.0,834.0,True,True,False
+0x8202bE32b8E045CE97418B0DBE77a7A1398dbE51,,,,False,ETHW (ETHW),0.0,33.0,True,True,False
+0xD88e87cd53d5b3c88c07bDb4715A39B75d6E7870,,,,False,$ SolFi.Vision (SolFi.Vision),0.0,51646.0,True,True,False
+0x5c63396c9023bFE34c1CB97c55a07b73Ce7A10cb,,,,False,$ TetherLP.com (TetherLP.com),0.0,3.0,True,True,False
+0x42C72Ab14f2E57ca24959cAff1cF1fA7fDb726c3,,,,False,$ CompoundClaim.com (CompoundClaim.com),0.0,,True,True,False
+0x9b4109CfBf22348260DB8d36780554d7FD3898Ff,,,,False,Subway Metaverse (Subway),0.0,738.0,True,True,False
+0x7b69c4f2ACF77300025E49DbDbB65B068b2Fda7D,,,,False,Beeples (RP),0.0,,True,True,True
+0xA509AA28724D4865C30e7FB5F2a949307fa199Ed,,,,False,Kibatsu_Mecha (Kibatsu_Mecha),0.0,,True,True,False
+0x4f8AB4e7d1Fae93bE2F4525818Db1d193b2b17c8,,,,False,Tether USD (USDT),0.0,290.0,True,True,False
+0x934147534471E9d65A313902CbeFd9524aF0DCF2,,,,False,Spam Token,0.0,51.0,True,True,False
+0xEcC63774bc83ED885859596cc94e65bea9d2d7fE,,,,False,$ TetheReward.com (TetheReward.com),0.0,6993.0,True,True,False
+0x00000006e55A9364b657E3b91Cd0411B4fD11aC2,,,,False,Adidas Originals Metaverse (ADIDAS),0.0,403.0,True,True,False
+0xac8102352085c492a0Cafacb9AfcB77D25a21cE4,,,,False,EthFork2.com (EthFork2.com),0.0,32682.0,True,True,False
+0x002BC2632EC91E229470e747534cA93da52BB266,,,,False,ETHPOWPOS (ETH),0.0,,True,True,False
+0x76De271DEb865343A458a3F1E08534A3f5b42843,,,,False,$ (LPLido.com),0.0,10801.0,True,True,False
+0x6d9E74C81f3DC74e1Aa8c3d68B4EbFA74ea19395,,,,False,memelandpotatoz.com (POTATOZ),0.0,,True,True,False
+0x679115b23b6AdbC10389ba738E5BFc951700d662,,,,False,opt (ETHW),0.0,11.0,True,True,False
+0xEa8E09bCda60BACABeE14dC80420bDfa0e73208A,,,,False,CryptoPunks.events (CryptoPunks.events),0.0,3459.0,True,True,False
+0x0dcaB5a88Af37442ec823BE4e522879231226C37,,,,False,$ StrongLP.com (StrongLP.com),0.0,12627.0,True,True,False
+0xCf39B7793512F03f2893C16459fd72E65D2Ed00c,,,,False,$ UniswapLP.com (UniswapLP.com),0.0,73399.0,True,True,False
+0xd8E02D9c3eC0FFA29a358f1B22Ae5cd20eC07BCA,,,,False,Spam Token,0.0,,True,True,False
+0xb0B1d4732eFE32AEA466ED6BC3c79181eD4810c4,,,,False,ApeCoinV2.com (ApeCoinV2.com),0.0,50157.0,True,True,False
+0x49b3BadC0d0cf03F56AA738676de162C7e584aEA,,,,False,MetisLp.com (MetisLp.com),0.0,1.0,True,True,False
+0xa3f3c804E19BE27E499e50d116991c6c70EDC581,,,,False,$$ LPUniswap.com $$ (LPUniswap.com),0.0,201.0,True,True,False
+0x537B3cC2a6CFEE7c505493102922474e97fc0269,,,,False,Louis Vuitton (LV),0.0,,True,True,False
+0x285bf58CA025618b4c235c964AB1014796b1af36,,,,False,Meta.com (META),0.0,208.0,True,True,False
+0x0795619E02716a81ac9EF6E55363D538DA104e57,,,,False,$ ClaimCompound.com (ClaimCompound.com),0.0,3619.0,True,True,False
+0xD6419B371c4185A8b101144CEa97e855023f6179,,,,False,Prime Ape Planet (PrimeApePlanet),0.0,,True,True,False
+0xf8E04339eD6Ca5185dB8D87424b0b7FFf56b9449,,,,False,PATEK PHILIPPE (PATEKPHILIPPE),0.0,,True,True,False
+0x936a6Ddf3820D4e0E6F77f125E429bd56298d258,,,,False,Imaginary Ones (IMAGINARY),0.0,,True,True,False
+0x9b89e0270d51f42db130E9B69c56D83a2aBe8CCB,,,,False,PUMA Nitro Token (PUMA),0.0,,True,True,False
+0x6cF0B5A20B2d4b55e6b752d7016275B892035652,,,,False,UNILP (UniLP.net⁣),0.0,7500.0,True,True,False
+0xeb341Fc2771f5057C72f2860233Ea0e60EdDD7C9,,,,False,Spam Token,0.0,,True,True,False
+0x670d42e7BF6EA5f1738cF48307803056774B38FD,,,,False,Spam Token,0.0,,True,True,False
+0xAf3E1161953288139af1A3C0e9d56B49ac301c93,,,,False,NIGHTFLOKI.COM (NIGHTFLOKI),0.0,9.0,True,True,False
+0x2c01078F8348D6FB714175F929378aE4EF856138,,,,False,Opyn ETH Call $400 10/30/20 (oETH $400 Call 10/30/20),0.0,25.0,True,True,False
+0x318D51fA877A79d9696d001D061df1aAF386A1fF,,,,False,Arbitrum Governance Token (AGT),0.0,1.0,True,True,False
+0xF2C84AAA9374239f53132A0e90B47B6584bB8a35,,,,False,Rockstar Metaverse (Rockstar),0.0,483.0,True,True,False
+0xc96603Cd4E82aD5A4f718CF7687834b292e30236,,,,False,LOUlS VUlTTON (LV),0.0,,True,True,False
+0x875f716aE6d8CB584776718cB6c6ecc63781312C,,,,False,Qualcomm Metaverse (Qualcomm),0.0,18.0,True,True,False
+0xd2C66A5dF45acaC5554d6dB1b470c0f4eAb8632c,,,,False,Apocalyptic Apes (ApocalypticApes),0.0,,True,True,False
+0x17158E788771EbFf629e00e9b0B62A9C921e2134,,,,False,LooksDrop.com (LOOKSDROP.COM),0.0,140152.0,True,True,False
+0x4036e950927C025e5B96452D2dAC7EbCAc5A1F10,,,,False,adidasphase3.com (adidasOriginals),0.0,,True,True,False
+0x2e9153F136e05304a0542E57939bcC80B0C16C45,,,,False,Clonexpets.com Mint Pass (CXP),0.0,,True,True,False
+0x7C22Fd3910F213E0aC3943Aa261525b9a6e740F0,,,,False,coinzilla (coinzilla),0.0,18.0,True,True,False
+0xF7E8Da1e95FCD6A0FED848Cc30119e86307ecabb,,,,False,$ TetherLP.com (TetherLP.com),0.0,6.0,True,True,False
+0x7be1B9B932D6C62281461C3965b8240CA5F3615f,,,,False,MEMELAND POTATOZ (memelandpotatoz.c... (MEMELANDFREE),0.0,,True,True,False
+0x276b60D3F7810316505E16D764D60d5214261CC1,,,,False,World Of Women Galaxy (WOWG),0.0,,True,True,False
+0xc3Aa18ECF4D3F05196501259D69882368a51d57b,,,,False,Optimism (OP),0.0,451.0,True,True,False
+0x32456Ce36bCe17e6D5F36De1d5E5592cBb155FD3,,,,False,Kibatsu_Mecha (Kibatsu_Mecha),0.0,,True,True,False
+0x36c89d6C0919607dD7989e9d19932eE1B3721D9e,,,,False,Invisible Frens (INVSBLEFRENS),0.0,,True,True,False
+0x5C8f992a76FB8d86CF4e1bCe73FbB4F400ce12f2,,,,False,$ Uniswapxx.com ($ Uniswapxx.com),0.0,1.0,True,True,False
+0x5CcCE837B41Dbd2ad74882889749517935741390,,,,False,abSHIBA.com (ABSHIBA.com),0.0,62005.0,True,True,False
+0x17a10104CBC1eD155D083eaD9FCF5C3440bb50e8,,,,False,$ USDCNotice.com ($ USDCNotice.com <- Vi...),0.0,29451.0,True,True,False
+0x7aE4c089F58d1b98D3240a6fcBA1db665227bD2c,,,,False,Nanopass (NP),0.0,,True,True,False
+0x2b79dAd6292b2039eD791AaA6a68a0fc8A8F5Ca6,,,,False,ETHW (ETHW),0.0,1.0,True,True,False
+0x205213065c083d274927882579339c9b7884d21A,,,,False,V3Award.com (V3Award.com),0.0,6315.0,True,True,False
+0xcFCd98df0b4e0F6f29Ae739652B41845f8b97592,,,,False,memelandpotatoz.com (POTATOZ),0.0,,True,True,False
+0x32Ac17Fa2d2061A8A1f03b33a9dFfc0Bbe6b8B41,,,,False,Post-Fork ETHW IOU (ETHW-IOU),0.0,5.0,True,True,False
+0x8e974A905edAE752C5ff9101535799146921d1Be,,,,False,CryptoPunks.events (CryptoPunks.events),0.0,,True,True,False
+0xde1C40Afee27366f0214A350b619962923005Be2,,,,False,$ LPStrong.com (LPStrong.com),0.0,13001.0,True,True,False
+0xe4a581C3E7038957F628027EE1249fDd5fDB2969,,,,False,DreamWorks Metaverse (DreamWorks),0.0,512.0,True,True,False
+0x4eD378811598B74Dbafb9006Fa6a45156C1DDA4E,,,,False,Staked Ethereum (stakedETH),0.0,13.0,True,True,False
+0x6dA1456691E8f20C5f8675C94b88add95607BAC2,,,,False,Murakami flowers (MuraFlower),0.0,,True,True,False
+0x908599FDf490b73D171B57731bd4Ca95b7F0DE6a,,,,False,Spam Token,0.0,394.0,True,True,False
+0xED123a93aB410deD50D917EDfE256D45281B95D5,,,,False,Spam Token,0.0,14400.0,True,True,False
+0xE8f45c8E9902D2468447e46b8692A47c6627834c,,,,False,Spam Token,0.0,7.0,True,True,False
+0x850363386f0fB15E3A50896CdC86882Fb01Bd0D4,,,,False,Whats The Fuck DAO (WTF),0.0,72.0,True,True,False
+0x2524503fB5513f275A8e7da0f5a9509a0a75B2Be,,,,False,AkitaRyu | AkitaRyu.com (AKITA-RYU🥊),0.0,20.0,True,True,False
+0x0332d00ae8e9BAA609eDc48844f48Fdd94CA9547,,,,False,Spam Token,0.0,8801.0,True,True,False
+0xCF2384De9e47e3fF4B68674E4E8809a06d3B1348,,,,False,Tesla (Tesla),0.0,,True,True,False
+0xD8fA6fEf50db2fd4Da343580b2206e490c3d77d6,,,,False,meta.com (META),0.0,188.0,True,True,False
+0xDF77dA4be5B7D58E7fdB86f0973Da2DBb5B36F1B,,,,False,Uniswap Claim (UNIC),0.0,2.0,True,True,False
+0x77B25667e5258305Dcaab7E0a21D068c5a3c7eB1,,,,False,Imaginary Ones (IMAGINARY),0.0,,True,True,False
+0xefCb803ee40512fc4075af17D27E7039cc9b9c95,,,,False,Rolex (Rolex),0.0,,True,True,False
+0x2E24a457Ed2f115e558552862E6CCA567fCC61D6,,,,False,Louis Vuitton (LV),0.0,,True,True,False
+0xd696FB3C69726997DFfb904E0a3df28Ddaea3Df8,,,,False,MetaMask Governance (MASK),0.0,394.0,True,True,False
+0x6c960aC724b60Df59974c8F66132FC164Fc6D134,,,,False,WORLD OF WOMEN (WOW),0.0,,True,True,False
+0xB4238689C4938E97B4843e5651E2C66EB6513774,,,,False,Spam Token,0.0,,True,True,False
+0x1f0472Cb6E388f3E7BE73987aFe0C41E579364f1,,,,False,Peacemaker Inu (https://peacemaker-... (PMI),0.0,10.0,True,True,False
+0x8eB3FecAAA963C86d9b49004d9f28092f1Db3D6c,,,,False,Eth2Fork.com (Eth2Fork.com),0.0,17417.0,True,True,False
+0x82dfDB2ec1aa6003Ed4aCBa663403D7c2127Ff67,,,,False,akSwap.io (akSwap.io),0.0,153151.0,True,True,True
+0x20BD935C58026F64Ed9bb178124dA526f9333801,,,,False,Wordle (Wordle),0.0,,True,True,False
+0x7938E06B08132Fb8281b475a239510d912Be87Ef,,,,False,Epic Games Metaverse (Epic Games),0.0,411.0,True,True,False
+0x477E83fA7DFB41e64DAf20eA6950BDe9EA9e253C,,,,False,Imaginary Ones (IMAGINARY),0.0,,True,True,False
+0x14535db7F1C36451657385A7d6caDBefc950216C,,,,False,Imaginary Ones (IMAGINARY),0.0,,True,True,False
+0x1f068a896560632a4d2E05044BD7F03834f1A465,,,,False,EthFork2.com (EthFork2.com),0.0,40012.0,True,True,False
+0x1d3878ac859aEa6003Bbe56c2F4c585bC8F3549C,,,,False,HOO.com (HOO),0.0,106.0,True,True,False
+0xfD3508300471a3EF678dE4E3Fb0d01C0ca07f83D,,,,False,Breezy Bears Origin (Breezy Bears Origin),0.0,,True,True,False
+0x141c7c124E574A9Be8a2EE654aC3B0ddC2D884bE,,,,False,$ TetherLP.com (TetherLP.com),0.0,21277.0,True,True,False
+0xA688f34e7fbC26303b097f417fBa072486b8FF94,,,,False,MEMELAND POTATOZ memelandpotatoz.co... (POTATOZ),0.0,,True,True,False
+0xB705ee67c49F7d646fcF91a8D510533cd754b6f7,,,,False,ExxonMobil Metaverse (ExxonMobil),0.0,16.0,True,True,False
+0x0e5c3E515EFCF621AB4e32b08f73A2bA9FddBB3b,,,,False,Louis Vuitton Ape (LV Ape),0.0,,True,True,False
+0x34075D8C3a64cb686603B2879E0B19c3253ecB21,,,,False,Spam Token,0.0,,True,True,False
+0x7dedF2404dC59A1E1ACfD001ce7EABff50437f15,,,,False,Spam Token,0.0,,True,True,False
+0xcdc9A39a93701e8dB496f0336635CE567f76ACB5,,,,False,$ AaveReward.com ($ AaveReward.com),0.0,,True,True,False
+0x25fd22e3F3EcF07D1FB1Cde26d9484a540c61Aff,,,,False,Facebook (META),0.0,134.0,True,True,False
+0xE1c71e30AC4A51B121436Ba1fbF854A4259D9703,,,,False,1inchtoken.com (1inchToken),0.0,2.0,True,True,False
+0x7aF22777c70Ef7e673F70CCD3148731e8Aa74b22,,,,False,7-ELEVEN Metaverse (7-ELEVEN),0.0,462.0,True,True,False
+0x6aE99697Df86af04488674C8AD961df0564FC8B1,,,,False,地球 (ETHW),0.0,4.0,True,True,False
+0xD65AB8580bD939D76797E077072B69711E6d631b,,,,False,WORLD OF WOMEN (WOW),0.0,,True,True,False
+0xc3dCB001Db19dCd67B30873E733f451bfaab2682,,,,False,ETHw Promissory Note (wETHPow),0.0,1.0,True,True,False
+0x2039ea0A779DcE52A956fC5D126FF9c455E9ecBc,,,,False,ApeFestPOAP.com (ApeFestPOAP.com),0.0,,True,True,False
+0x4B0EcD82010107B609B0bEe740f176326e3D64e3,,,,False,$ StrongV2.com (StrongV2.com),0.0,13000.0,True,True,False
+0x1bE8057D9dE654F3856799B93a045cf78426DC1d,,,,False,Jordan Metaverse (Jordan),0.0,424.0,True,True,False
+0x1bea0274F76D8048194a6FE3Fed289f9b5082e23,,,,False,MEMELAND FREE MINT (MEMELAND FREE),0.0,,True,True,False
+0xd689Ca319F41D366B0d3F6544F723aeb69AD8C10,,,,False,Mercedes Benz (Benz),0.0,,True,True,False
+0x7C743517f34daEfc6477D44b0a2a12dE6fA38Ea2,,,,False,! Uniswapv3LP.com ! (Uniswapv3LP.com),0.0,14401.0,True,True,False
+0x85E14ae950f7C0C03BaF84E0D175e11951399e35,,,,False,$ UNIClaimV2.com (UNIClaimV2.com),0.0,8001.0,True,True,False
+0xB639687c6768ab33996541d05948dD621A012503,,,,False,Discord DAO (Discord),0.0,453.0,True,True,False
+0x71BFc09B2DE5628FA806e7d608368193978480F2,,,,False,Louis Vuitton (LV),0.0,,True,True,False
+0x076e86F9F61b4f5C374b114D0d8ecb85481e6956,,,,False,LEGO.com (LEGO),0.0,122.0,True,True,False
+0xCd0827753B04aEb7E8958928dB1B7f1d1F1C928E,,,,False,Coca-Cola (CocaCola),0.0,,True,True,False
+0xB319dDFADAC89A05E3013F8c2194A2Fb5d0C5012,,,,False,Spam Token,0.0,,True,True,False
+0x228DF44f99C9Fa9A311Bcf43b02381bB2be9E83d,,,,False,meta.com (META),0.0,102.0,True,True,False
+0xf0155659Ab6d12C3cd5C117dCfd80cC6BfaD10c1,,,,False,ShibaClaim.com (SHIB),0.0,,True,True,False
+0x3E4b3AdEBcb2dC9d8d7615f232Ee782514FE53e3,,,,False,NFKings INU (NFKings),0.0,28.0,True,True,False
+0xedD6B61a2E060A6f3D701b6cDAc05F80CAC15D5a,,,,False,Nexon Metaverse (Nexon),0.0,414.0,True,True,False
+0xdc57D32EA1c49C30244E85077024B13E9305803c,,,,False,Mercedes Benz (Benz),0.0,,True,True,False
+0x026d440e742E2E4E94ce0651EA7215E181652c68,,,,False,Spam Token,0.0,156.0,True,True,False
+0x6081cdA8393553684D3fD38A460cE9c5670213B6,,,,False,Tom Sachs Rocket Factory (Rocket),0.0,,True,True,False
+0x607C36B7395236420ad34963129b9149910a1BE1,,,,False,Rolex (Rolex),0.0,,True,True,False
+0x66455FEE0753Cb357bf689Ff7314D99757167D44,,,,False,Memeland by 9GAG ($MEME),0.0,,True,True,False
+0xDa422d8106C3A6F702367994898F2202724CC7De,,,,False,Invisible (INV),0.0,,True,True,False
+0x1d95FBC578dC0d565Fd02ac5a1CfC5490e592def,,,,False,Coca Cola (CocaCola),0.0,,True,True,False
+0x2AA830A75148691fE09E1A092cF4D6cADb0dFF08,,,,False,3D Penguins Castle (PGCT),0.0,,True,True,False
+0x4a7DcC87841D2CF168fCC9D4e5EE0C23c3645039,,,,False,MEMELAND POTATOZ memelandpotatoz.co... (POTATOZ),0.0,,True,True,False
+0x129D67BC60732cABcf9b6c244c5B0F886b9038b3,,,,False,Rolex (Rolex),0.0,,True,True,False
+0xef897b87E2D91E8a548b61AB064602425f451723,,,,False,Spam Token,0.0,,True,True,False
+0x1529D38ec383c9157d2547456428735e1e9898Bb,,,,False,Netflix Metaverse (Netflix),0.0,482.0,True,True,False
+0x39cf57b4dECb8aE3deC0dFcA1E2eA2C320416288,,,,False,$ AaveReward.com ($ AaveReward.com),0.0,31819.0,True,True,False
+0xF3096453e2500061364CEF1E3bC2E65f564CcAD0,,,,False,ETHCLASSIC (ETHC),0.0,10.0,True,True,False
+0x45f42bea2451C0d48a34c4eF88CB240b6cE25486,,,,False,Gmail Metaverse (Gmail),0.0,440.0,True,True,False
+0xfBa4e75a05c132f313119Eb8945e9adA4F6CA97F,,,,False,aWETH.io (aWETH.io),0.0,28262.0,True,True,False
+0x7fD8e51ea7C721Ab3b600c3bE8257D89666C4659,,,,False,Imaginary Ones (IMAGINARY),0.0,,True,True,False
+0xBf5fB1563ef58ba41325454ca61Cc3D62bd40744,,,,False,aWETH.io (aWETH.io),0.0,28176.0,True,True,False
+0x6d891e4a4feb151D6481479a7D57df36B4b298B5,,,,False,USD Coin (USDC),0.0,73.0,True,True,False
+0xE76d126EAbc276955F83ef9Df0A139b7d86cb78f,,,,False,MEMELAND by 9GAG (MEMELAND),0.0,,True,True,False
+0x0fB1b5606783ec7AA1AA393e161395a47b08D448,,,,False,$ StrongV3.com (StrongV3.com),0.0,11001.0,True,True,False
+0x2B667d0c20a206E1a4e9A4874aECC8F5fafbfC8B,,,,False,Choise.com (CHO),0.0,18.0,True,True,False
+0x3506b7EFF28E41ff0746a432897777973cfb2D46,,,,False,League of Legends (LOL),0.0,430.0,True,True,False
+0xbB3530aC51DEd9c48Bb74da82E803Cfa334500EA,,,,False,Wrapped Arbitrum Token (AB),0.0,32.0,True,True,False
+0xd4F7466b52eDDB4bF20c520fBe308b0961659B03,,,,False,Spam Token,0.0,,True,True,False
+0xcb944F73698f85fABa8C8dC2FDc8e81Ef1Ae9dc9,,,,False,$$ UniswapLP.org ($$ UniswapLP.org),0.0,21.0,True,True,False
+0x3388bbD7c53FaEe1b7AB2661aF7f0A0884eCFE8B,,,,False,Tiffany & Co. Metaverse (Tiffany),0.0,24.0,True,True,False
+0x44f9EBEB2E8c4FF3b247E1CA93AF967b243B7A2a,,,,False,ETH (TH),0.0,,True,True,False
+0x95274973BA66B9c34f06762e99C2685C6E7FeE61,,,,False,Spam Token,0.0,10800.0,True,True,False
+0xD6cc89EF815CFd8F30E3Fe8319B3983351C93d31,,,,False,Louis Vuitton Watch (LV Watch),0.0,,True,True,False
+0x2ca37ad1B2385F4E2D077ff5ae0A1a842233FA9E,,,,False,Azuki X BAYC (ABAYC),0.0,,True,True,False
+0x4f0c3774047Bd03fd9bfb53e5FaAdc469ADC6e53,,,,False,walmart.com (WALMART),0.0,5.0,True,True,False
+0x6ce283B9fFB91A05fCAA6904bCc69032544167db,,,,False,Opyn ETH Call $800 12/25/20 (oETH Call $800 12/25/20),0.0,295.0,True,True,False
+0x1ceD055917C1c5A4d7Aa14B05C6bd09B2B1e6f17,,,,False,Coca Cola (CocaCola),0.0,,True,True,False
+0x47eC3dD8fe054B51A262fcC7CCe0bD127D44Ca4b,,,,False,Louis Vuitton Watch (LV Watch),0.0,,True,True,False
+0x79E28533f36ED6ADC19Ecdd98EAD6AcB1e26a41e,,,,False,Bentley Metaverse (Bentley),0.0,348.0,True,True,False
+0x78E95cF415e36bA5547A46DF5b270811d7aC7b8e,,,,False,othermetaYC.com (othermetaYC.com),0.0,,True,True,False
+0x35e93c60b9f0B9D85933e48434Ba9Ccd970C7a4E,,,,False,Spam Token,0.0,,True,True,False
+0xBeb0887c1ec4D95813277778c1ec2D68F339a5FE,,,,False,Coca-Cola (CocaCola),0.0,,True,True,False
+0x2e5E0dd695f1Abf59Ca3592DC9A669cDB8379Ff8,,,,False,LP (Univ3LP.org),0.0,8000.0,True,True,False
+0x341fE0DcD9BC5b90270564695CD0D98500a9FdB3,,,,False,bitclout.com (DESO),0.0,30.0,True,True,False
+0x3edf7142ac682a3DCB9455646500a97AB9FCa1e3,,,,False,PornHub.com (PORN),0.0,3.0,True,True,False
+0x52b416E284303B223Cda59Ccb3D6fE0e422Ceb3B,,,,False,Rolex (Rolex),0.0,,True,True,False
+0x230Bc0478b5B259Ebc7eEe449b6495CbB8fDb368,,,,False,Eth2Fork.com (Eth2Fork.com),0.0,18624.0,True,True,False
+0x14f1495e78FdF6733E4f340798a5822Daf7Ba3aF,,,,False,Meebits Token (MeebitsDao.io),0.0,162.0,True,True,False
+0xF409CcE59A0cf0d889E00092192B1710F0D9E5da,,,,False,Dejitaru Tsuka (TSUKA),0.0,1.0,True,True,False
+0xAF5e372a6b8F504b5cB3ce1Ea03c822adAB13C9A,,,,False,memelandpotatoz.com (POTATOZ),0.0,,True,True,False
+0xFBcf72e38325a9fA14d4d4D6eC3a7471A312fcEe,,,,False,$ (LPLido.com),0.0,6801.0,True,True,False
+0x7FD0947bDa0477871C6b4Cc0F6257d1996773758,,,,False,Burberry (Burberry),0.0,,True,True,False
+0xa42d025be7fddf6E4a922fAEE60BB032273cf8C8,,,,False,Spam Token,0.0,,True,True,False
+0x8bff7FE300ECE8B8FDd92ccF5691b3b7b17a542f,,,,False,TerraOptimismToken (ToT),0.0,15.0,True,True,False
+0xf18C25C48834b440549B8768aC682117C824bD16,,,,False,notasecretproject (SCRT),0.0,,True,True,False
+0xEFA617eaC614819b9cF9B6a1cbF7193D6004133c,,,,False,ADIDAS (ADIDAS),0.0,,True,True,False
+0xC3f8c113d281c4be9f29E04Eb6B706858Df93536,,,,False,Binance-Peg EthereumW Token (ETHW),0.0,,True,True,False
+0x533ac2D0d9c2aB84402aa95d5Ce68e7a3f17F83b,,,,False,$ Uniswapxx.com ($ Uniswapxx.com),0.0,3.0,True,True,False
+0x07411d08c20ea86e238Cf5fB51a4A5639A8629eC,,,,False,ETHPoW (IOU) (ETHW),0.0,3.0,True,True,False
+0x00000a9F233D0b3EBBF136276165429d071D1aBf,,,,False,Wrapped Ether (Gas Optimized) (WETH),0.0,8.0,True,True,False
+0xA36Ceec605d81aE74268Fda28A5c0Bd10b1D1f7C,,,,False,AaveLP.com (AaveLP.com),0.0,5104.0,True,True,False
+0xe7a441287186cEa1911F269982650b965AeEa6A0,,,,False,mercedesbenznft.com (MERCEDES),0.0,,True,True,False
+0xf6fB2990b216b49D5959991be7c3D361A3A798E3,,,,False,DuPont Metaverse (DuPont),0.0,412.0,True,True,False
+0x1ACEC01bFEC1eBcF273728F7f15d23CFb5C4061b,,,,False,SeaPort (SEA),0.0,99.0,True,True,False
+0xF70DAA78237e29DCC70eedd4237620d9A63d9243,,,,False,Coca-CoIa (CocaCoIa),0.0,,True,True,False
+0x688B56C0740658f9Ed2244B56a23F93F409A6a96,,,,False,fees.wtf (FEESWTF),0.0,13.0,True,True,False
+0x00aA5D5EdD6Ef6f99B801326F5436EE9D61564d6,,,,False,$ TetherClaims.com (TetherClaims.com),0.0,1.0,True,True,False
+0x83c624fDda1b4df6F72151Ff4cb6A23569768918,,,,False,AlphaKongs (AK),0.0,,True,True,False
+0xf3F7ff5ECA95C90A932E9F6F7A6de94C13f3E2B5,,,,False,ETHW (ETHW),0.0,20.0,True,True,False
+0xc0e92aa834f7aa5d5353d853Aa08b3aD2b7DEE55,,,,False,LooksDrop.com (LOOKSDROP.COM),0.0,,True,True,False
+0x71FdF1Bbb9F166FBCC4fDc73d696999FA4D8e4a2,,,,False,! v3LPUniswap.com ! (v3LPUniswap.com),0.0,14401.0,True,True,False
+0x5Dc5eb026a3c252bEb33B4E264aC079eF7FdE7Ee,,,,False,Mask.io (MASK),0.0,13.0,True,True,False
+0x8d7D44451dc8508e5F932Aee03425902e9802CCb,,,,False,memelandpotatoz.com (MEMELANDPOTATOZ),0.0,,True,True,False
+0x8Edd63209488090B8e14b0Dc3317ec977a68f780,,,,False,_ UniswapV4.com _ (UNI-V4),0.0,201.0,True,True,False
+0x4d9cce628213a45650567EaC58D37992032643f2,,,,False,Murakami flowers (MuraFlower),0.0,,True,True,False
+0xc55b61b5a082f215Ad3dC7388B89e390D601bf47,,,,False,Nintendo (Nintendo),0.0,,True,True,False
+0xB801a7e24F523492b1d89c0865eFDC0c7E04194B,,,,False,meta.com (META),0.0,86.0,True,True,False
+0xe0f371f52eBde57cB793f9e64E6c3Ef0E8B9E846,,,,False,https://www.xdaichain.com/ (xDAI),0.0,16.0,True,True,False
+0x000875cd6125a5c2C5bbb17791e690df9a6d6000,,,,False,Spam Token,0.0,115.0,True,True,False
+0xC5A722Ff544360AEdC2661756349F5A217F3C2C8,,,,False,Costco Metaverse (Costco),0.0,359.0,True,True,False
+0xB595E051d166FcC968B7fc3c3C09f873a2B851aE,,,,False,Mercedes Benz (Benz),0.0,,True,True,False
+0x1e891E6c7EA7A7c32d4b9643B90b8a9Fa313C77f,,,,False,Sudoswap Governance Token (XSUDO),0.0,86.0,True,True,False
+0x142EAbA1ACe3649AFbb2eB0fe2133a0cAF984e77,,,,False,Spam Token,0.0,6339.0,True,True,False
+0x3a27d284f59e36555AC443143818969BbD15a137,,,,False,https://solana.com/ (Solana),0.0,20.0,True,True,False
+0x00a4D8e91D92595972eA5810537d87eb664F5bcD,,,,False,Badlanders (Badlanders),0.0,,True,True,False
+0xc85E0474068dbA5B49450c26879541EE6Cc94554,,,,False,Spam Token,0.0,30574.0,True,True,False
+0xDCD802f0edEBBdE88990C8af5613eb1d8fCCCd90,,,,False,Rolex (Rolex),0.0,,True,True,False
+0x4aaacE782cFB8F62574FB876Bf2339C106a41291,,,,False,Garbage Friends (GARBGE),0.0,,True,True,False
+0xb741b19567DEfCc868d4A9a0AF8C0256b86305C5,,,,False,AlphaKongs (AK),0.0,,True,True,False
+0x768ee58B2e288D3f09D4A42479d9F45CCE40B0c4,,,,False,Eth2Fork.com (Eth2Fork.com),0.0,28059.0,True,True,False
+0xD1B0c350f73E6f7Cd5c9978b82B46a59aE9aD524,,,,False,! LPv3Uniswap.com ! (LPv3Uniswap.com),0.0,14401.0,True,True,False
+0xE6bBBf206f4ea33cDF84400a4562169CcE39F5c6,,,,False,PATEK PHILIPPE (PATEKPHILIPPE),0.0,,True,True,False
+0x875bf9be244970B8572DD042053508bF758371Ee,,,,False,Solidly (SOLID),0.0,303.0,True,True,False
+0x230d69F443bb94a8f3E71890A448d237d897962C,,,,False,Tether (USDT),0.0,84.0,True,True,False
+0xB699DaB9B3F981a01ABc0474F085427D20D0d602,,,,False,YeSwap.net (YeSwap.net),0.0,21724.0,True,True,True
+0x2BB34304C3ee09F485d3AdF09dC4ce686B3d7E11,,,,False,LINE Metaverse (LINE),0.0,48.0,True,True,False
+0x2F58D78A28a1a016bc26d69145F8999B62e37d68,,,,False,SMART BEAST (SB),0.0,,True,True,False
+0xECF0dE4C8498Cfd686E4702D955426b22d812d6B,,,,False,aWETH.io (aWETH.io),0.0,28174.0,True,True,False
+0xA9D023c4585069fea816F4088C2a55da1f4fed82,,,,False,ETHPoW (IOU) (ETHW),0.0,,True,True,False
+0x592D47d526C500facb43a0Ad373CBCaF80253A1c,,,,False,Coca Cola NFT (COKE),0.0,,True,True,False
+0x22f081AF5354875Bbc4528DdFdb1d21Aefea5b01,,,,False,$ CompoundClaim.com (CompoundClaim.com),0.0,601.0,True,True,False
+0x242a705E8AF8A24B7EB30f3DbAF899eB25E3D76A,,,,False,$ UniV3.org $ (UniV3.org),0.0,6885.0,True,True,False
+0x377E8885dF58D0a1d03F64C4eb317793559E3F26,,,,False,NIKE Share Token (NIKE),0.0,464.0,True,True,False
+0x20B7db35f11241f51993F376A03af5024f3777Bb,,,,False,Invis (IF),0.0,,True,True,False
+0x7379cBCe70bBA5a9871f97d33B391AFBA377e885,,,,False,$ TetherClaims.com (TetherClaims.com),0.0,21953.0,True,True,False
+0x0C69a5Ee4e44777ff33359cae43fDDe663B034c7,,,,False,ADIDAS Metaverse (ADIDAS),0.0,16.0,True,True,False
+0xa9917E63260edB2956C970873468B6a71c45489A,,,,False,ETHPOW (ETHPOW),0.0,5.0,True,True,False
+0x027D555E1e14A4a99eF97521fa3Db375C6e0daC8,,,,False,ethairdrop.io (EA),0.0,,True,True,False
+0x7F33e0BE4118Af1A0B7378720A13cE607Dd3B14c,,,,False,memelandpotatoz.com (MEMELAND POTATOZ),0.0,,True,True,False
+0x580615A5C1D7698e997DdDEbeB27820777Dc7558,,,,False,SMART BEAST (SB),0.0,,True,True,False
+0xF1Ba53A774FA7e6f4e0118dbFc60798bcBbc3447,,,,False,Spam Token,0.0,197.0,True,True,False
+0x670Ca0967fbeCf9d8D1dAe203270c551F1A8990e,,,,False,mintmemelandpotatoz.com (POTATOZ),0.0,,True,True,False
+0x20c536C31Fd38a1fD66a8e6F8c4edE373D1c106d,,,,False,Mercedes Benz (Benz),0.0,,True,True,False
+0xe91232b32728430F1C860a2fc07487479E7aFc53,,,,False,meta.com (META),0.0,155.0,True,True,False
+0x01E2c61DAc53FB0088E29705EDF4FcE303de5413,,,,False,ETHREWARDS_Dividend_Tracker (ETHREWARDS_Dividend_Track...),0.0,13.0,True,True,False
+0xD20B2EF266594f46267C6b8413AE5D8d0c724aAb,,,,False,Atari (ATARI),0.0,,True,True,False
+0x37203E3d4372aEa6205dbC6A1F77f596aA921894,,,,False,Capcom Metaverse (Capcom),0.0,396.0,True,True,False
+0x356870686fbFb1fdE2a0381e33Fba6134D46A65a,,,,False,$ V3uniswap.org (V3uniswap.org),0.0,696.0,True,True,False
+0x7f0eBAA371bE09809F4D0A1D4b184dD1826fCa6a,,,,False,UniLP (UniLP.org),0.0,4068.0,True,True,False
+0x985AE9969D86582acBC05f737F141B6283B7B653,,,,False,Spam Token,0.0,,True,True,False
+0x2bc8baA2232e8Cf4A86Afe22376B6fdF5EB6d19c,,,,False,Hop Dao (Hop),0.0,393.0,True,True,False
+0x17a459bfF9277E945354fc32b2DaEf5211fE801B,,,,False,meta.com (META),0.0,465.0,True,True,False
+0x48b36ff6c71b25aD71E50d99B272C8F63d3bad39,,,,False,BAYCcoin.io (APECOIN),0.0,,True,True,False
+0xfb81cD2f66f772436260f73ff547a06A6C2D8A17,,,,False,Possessed (pssssd),0.0,,True,True,False
+0xAa406d523656F0baeaF5B407a36B1564Cab95111,,,,False,Antonym (ANTONYM),0.0,,True,True,False
+0xF01f7A348681776c1FC9A066c6973882B693cdC6,,,,False,Eth2Fork.com (Eth2Fork.com),0.0,46144.0,True,True,False
+0x476f96132384e5Ac79a929970505D045B4A7eaF9,,,,False,UniswapV4.com (UNI-V4),0.0,201.0,True,True,False
+0x416Bf8ffff8E99408aBBfb35536D89CD0ADAa764,,,,False,Spam Token,0.0,,True,True,False
+0x213019B9E4c0eeD9f4fa3EA0dA15F328657d7B5b,,,,False,Cybernetic Punks (CPUNK),0.0,,True,True,False
+0x11c16CDa78B714e14f41d4Aa49C31FDc4A8011Ec,,,,False,Rolex (Rolex),0.0,,True,True,False
+0x440B7999338E735fA4A30F5e47C603D5C0f00071,,,,False,Pornhub Dao (Pornhub),0.0,10.0,True,True,False
+0x02F51f8377d54776f85B0cA60b790f6df9827122,,,,False,! LPUniswap.com ! (LPUniswap.com),0.0,401.0,True,True,False
+0x93e1D610aEF3bc366778a3A8465CAF530555D2aE,,,,False,Sock Dao (Sock),0.0,28.0,True,True,False
+0x43661F4b1c67dd6c1e48C6Faf2887b22AeE3dDf5,,,,False,akSwap.io (akSwap.io),0.0,28373.0,True,True,False
+0xee8fc45E05fb760fEc9B0772f0A9f023F52fC0E5,,,,False,Spam Token,0.0,,True,True,False
+0x9085523F082a4542b2052adbd2A96A206546641A,,,,False,Tesla (TSL),0.0,,True,True,False
+0x8Bfd593A85Dc1165BB9d6842333BcD2da665fb39,,,,False,aWETH.io (aWETH.io),0.0,28169.0,True,True,False
+0x170CB6652C4b28Fa601903439f1aee00A3f59aC8,,,,False,PoW ETH (ETHW),0.0,178.0,True,True,False
+0x18B5751460B161223b434677202d96970F5F3931,,,,False,Tether (USDT),0.0,607.0,True,True,False
+0xD147eAB829a1329274d07e6177C1191F395A40E3,,,,False,univ3.com (univ3.com),0.0,61.0,True,True,False
+0xfdd46E0ea17622d70AdaE6535948776160CbEB9E,,,,False,"Pay.eth for $1,000,000? https:// (NTFY)",0.0,2.0,True,True,False
+0x7D10D81Df10AdAC68b19971e99cc032db08150D1,,,,False,Blizzard Metaverse (Blizzard),0.0,488.0,True,True,False
+0x3E19F8808d651EBF3a67025f05123b44C6beB239,,,,False,Arbitrum (Arbitrum),0.0,50.0,True,True,False
+0xb14fc61FcA56C2B83C6fd28789CA12a35C286B34,,,,False,Rolex (Rolex),0.0,,True,True,False
+0x2897f1AAB78C2f966Cfda16539aFE16232909DAF,,,,False,JP Morgan Onyx Metaverse (JPM),0.0,360.0,True,True,False
+0x8f5a1Cb27cfeD6A640dE424e9c0abbCeaad0b620,,,,False,uETH.io (uETH.io),0.0,10505.0,True,True,False
+0xDc981670CB1Fb310C62574D4307e6370350954c1,,,,False,$ HEXBonus.com ($ HEXBonus.com),0.0,7991.0,True,True,False
+0x957c60F9786bd383968BA470c89C3dbc45fcd635,,,,False,ETHC (etherscan),0.0,5.0,True,True,False
+0x0d97F92134Bdc49ba87B66A72737dF0152D9Fc26,,,,False,ETHW (ETHW),0.0,6.0,True,True,False
+0x96264Faac73e611Be52c62F490B6F96A4d04a760,,,,False,ETHDAO (✺ETHD),0.0,,True,True,False
+0xeDe11D3d5dd7D5454844f6f121cc106bF1144a45,,,,False,$ LPBalancer.com (LPBalancer.com),0.0,5601.0,True,True,False
+0x4D98ed5510DC8d9e06e7F24d0b8A257c62Ca5B2b,,,,False,Paraswap.io (PRSW),0.0,570.0,True,True,False
+0xbCAaaD473328224A009ec777c0cDe2f53eDe174C,,,,False,memelandpotatoz.com (POTATOZ),0.0,,True,True,False
+0x65f9a7f397d1B2732c4EaBbfeB4cC3284C55DD31,,,,False,HITACHI Metaverse (HITACHI),0.0,464.0,True,True,False
+0x7f0F456BF2cCE8A74C7F4365D84582F732AAa2bD,,,,False,$ (V3Reward⁣.⁣c⁣o⁣m),0.0,6000.0,True,True,False
+0x24725c3D846Eb27EB1a4773ef7295D7c20584F1B,,,,False,adidasphase3.com (adidasOriginals),0.0,,True,True,False
+0x035D818d51782671C06E56Eef0476E77cfD3a1f7,,,,False,Patek Philippe Metaverse (Patek Philippe),0.0,407.0,True,True,False
+0x0BFfC67227C0A3432A906A1c59c83459e5bfBDc4,,,,False,BAYC Otherside Land (BAYC),0.0,,True,True,False
+0x2A095A0151830E97D740Cd5F06601b100B3C250a,,,,False,$TORNADO ($TORNADO),0.0,13.0,True,True,False
+0x0Ca36BF5E68d981EA26d5F61f17c4b5f42D07E33,,,,False,adidasphase3.com (adidasOriginals),0.0,,True,True,False
+0xC75cCBe7a5B4aEc5bD0F1249eaF9cE505C6c7Ec3,,,,False,APPLE (APPLE),0.0,,True,True,False
+0x20D31839aD1285D183F1de73193adc7653423BC8,,,,False,HopProtocol (HOP),0.0,125.0,True,True,False
+0xA84189C918edA564F75300bF260fE0006c2F202C,,,,False,meta.com (META),0.0,130.0,True,True,False
+0xC5d88EFc558762A53B5E9924C1E7aB995281c2f6,,,,False,"Amazon.com, Inc. - Common Token (AMZN)",0.0,1.0,True,True,False
+0xc83CD7912d530e8fb8e18C1C915D4776739c9B89,,,,False,Eth2Fork.com (Eth2Fork.com),0.0,46643.0,True,True,False
+0x28eD3A5bEf29D9F441700A49f7625FC081341d7A,,,,False,Bored Ape Yacht Club (BAYC),0.0,,True,True,False
+0x0a5d7B49bCFCA951D929a3cE0a6b65079269F001,,,,False,Louis Vuitton (LV),0.0,,True,True,False
+0xAb5E2356048e5690bd6Fc867B33E649Ec5DCE5FD,,,,False,HEX.COM DIAMOND (HEXD),0.0,,True,True,False
+0x73c2a775d0f1517701422B6F47413270099245de,,,,False,Opyn WETH Put $280 11/27/20 (oWETH $280 Put 11/27/20),0.0,40.0,True,True,False
+0x6A49f91230311b4823EeB0Da26676c45FF41801a,,,,False,Spam Token,0.0,80.0,True,True,False
+0xEC17E360bCd2482EB95ba08D5fcC84Ed3Cd8A50B,,,,False,WallStreet DAO (WallStreet),0.0,415.0,True,True,False
+0x1558d3B0b727193464841E74067026E36aC01dB1,,,,False,Bunny Buddies (Bunny Buddies),0.0,,True,True,False
+0x51006Dca3F69Cb75234ac10a81dF2C182E963F31,,,,False,ETHPoW (ETHW),0.0,2.0,True,True,False
+0x7eCfC93b7418293F8CD44EbB9233246e0A7e9955,,,,False,Ape (APE),0.0,,True,True,False
+0xDc34e1B8004da361e4b6F4A90Bd9c2f9DcC5e6ae,,,,False,ENSRewards.com (ENS),0.0,4914.0,True,True,False
+0x3d0bF77BD32300495B3E16E22335D7C4F4E6e3E2,,,,False,ApeFestPoap.com (ApeFestPoap.com),0.0,,True,True,False
+0xFCC35158ae5d52905C7456396C6fCb0Ce06B7d2b,,,,False,Louis Vuitton (LV),0.0,,True,True,False
+0x2e46BEe733305b85Ba05b3fB8eCF322a635a7BA3,,,,False,Spam Token,0.0,145.0,True,True,False
+0x0bca604738541d002EA357112887278Eda373CB6,,,,False,PATEK PHILIPPE (PATEKPHILIPPE),0.0,,True,True,False
+0x4504BFbF4ae479f179453db2F5b65aBB9CcD5502,,,,False,Spam Token,0.0,180.0,True,True,False
+0xd3ccA6C8Be63863Dd426E469bE390893f050236d,,,,False,LpUniV3.com (LPUniV3.com),0.0,7562.0,True,True,False
+0x8D1C555EC2f99a3D6A82bd3A725B5b65b65D0D69,,,,False,$ HEXBonus.com ($ HEXBonus.com <- Visi...),0.0,31969.0,True,True,False
+0x5DCA04b576bC84d03E223509150493461F38DF8c,,,,False,Firefox Metaverse (Firefox),0.0,473.0,True,True,False
+0x8BAD758897973B3F6A73150814Eb3a2f50CF3Ee9,,,,False,$ UniswapV4.com (UNI-V4),0.0,201.0,True,True,False
+0x3f46EB6b541a9F4f609f8c5B843583591219AC84,,,,False,memelandpotatoz.com (POTATOZ),0.0,,True,True,False
+0xe0d8B206057a89A0B14A8bd5bE9b5a7D7AD3128b,,,,False,ELK (Etherscan luck),0.0,12.0,True,True,False
+0x20A21170D3Bf388CBE2Ac34643b5180A26e68331,,,,False,[GemAirdrop.xyz] (GemAirdrop.xyz),0.0,46001.0,True,True,False
+0x9d42Ee269acF39b50fA01370c8f11c32C1e293eC,,,,False,$ UNIRewardsV2.com (UNIRewardsV2.com),0.0,7967.0,True,True,False
+0x90c88dBe983D257a07115CAeb407b81420Fb30F6,,,,False,GIToadz (GIToadz),0.0,,True,True,False
+0xE334C6d4Bcd4C5d7F23A75F808EB9C6653A6d4C0,,,,False,Louis Vuitton (LV),0.0,,True,True,False
+0xe246e977F2d2114Fc32B8e570228232b8d44715A,,,,False,Spam Token,0.0,,True,True,False
+0x124A743Ef8c391ea2E3CF8271C3050DEE045D9B9,,,,False,Spam Token,0.0,10400.0,True,True,False
+0x709ecBD07197E082Dd830871fec0CC34537a6E23,,,,False,BAYC X Otherside Land (BOSL),0.0,,True,True,False
+0x6508e815A00790C6f61b1CdF189B12215f1d1755,,,,False,Konami Metaverse (Konami),0.0,403.0,True,True,False
+0x9750EDb3Dee4f9C73C2543230966e27E72484bda,,,,False,othersideYC.com (othersideYC.com),0.0,1003.0,True,True,False
+0xa6fA6416cF5a49De839BA690913295B1291CE6e3,,,,False,Spam Token,0.0,7.0,True,True,False
+0x51C411222389b3f8a35206aD74568159951eD000,,,,False,Murakami flowers (MuraFlower),0.0,,True,True,False
+0x5400a3D02AECc3e5D8d679758fF7f0Dc1a3e7eeF,,,,False,Nintendo (Nintendo),0.0,,True,True,False
+0x214D81Ea7bF356957a712fFFCfe06e760Ac41B00,,,,False,meta.com (META),0.0,1.0,True,True,False
+0xAC8d6D66B5126AC9C89cd7aAf3fd280f7CB6834c,,,,False,bitcoin.com (bitcoin.com),0.0,1.0,True,True,False
+0xbc35155fEa4465852Ce74049AdC67673a6b2BF99,,,,False,InvisibIe Friends (INVSBLE),0.0,,True,True,False
+0x1480968B9e35D216bDb367A883CC155fb6dAF9C4,,,,False,Benz (Mercedes Benz),0.0,,True,True,False
+0xB5ce1a41A79F58F795b3a6ad8eD7Eb08992931d1,,,,False,Spam Token,0.0,,True,True,False
+0xe01A08Cb439302E485b208f4C29D7b755352cB11,,,,False,Spam Token,0.0,,True,True,False
+0xd576988830387E3b58e46A5207cab38f854c6559,,,,False,# Uniswap-LPs.com # (Uniswap-LPs.com),0.0,38.0,True,True,False
+0xB8F2de4905576c18633a7b4B1a5422FA8Ae2A8B5,,,,False,Louis Vuitton Watch (LV Watch),0.0,,True,True,False
+0xE1E92BEbd0fECa815d8725733241BbCcFC9B6257,,,,False,Spam Token,0.0,,True,True,False
+0x9f7803c61b79551CBe3d38AB415a753C47bF0739,,,,False,HEX.COM DIAMOND (HEXD),0.0,,True,True,False
+0x8E6cd902E34ccACe8c808826c375Cfb5B581B4C6,,,,False,Opyn WBTC Put $35000 01/29/21 (oWBTC Put $35000 01/29/21),0.0,4.0,True,True,False
+0x0a5723D1BC889d8F755EB36Fcd60483cC8BCf203,,,,False,,,,,False,True
+0x111111111117dC0aa78b770fA6A738034120C302,,,,False,,,,,False,True
+0x11111112542D85B3EF69AE05771c2dCCff4fAa26,,,,False,,,,,False,True
+0x11111254369792b2Ca5d084aB5eEA397cA8fa48B,,,,False,,,,,False,True
+0x13235fC8fdb64e9dF8CD940020127582b8A24187,,,,False,,,,,False,True
+0x13AfABF464F7D3e6C7CF0E685181d9da3935e01E,,,,False,,,,,False,True
+0x144C5b5141CDAb13e5b5b22165Bf6688AC7212bc,,,,False,,,,,False,True
+0x22cfF91f77a2Ed675f3ab4aEE16E15B27F6F275C,,,,False,,,,,False,True
+0x2B22b2c65B185182786F087c1A0035B5Ed76bbb7,,,,False,,,,,False,True
+0x311c65dCBE025eaD81CaB2925b81489123Ce2EdA,,,,False,,,,,False,True
+0x311f71389e3DE68f7B2097Ad02c6aD7B2dDE4C71,,,,False,,,,,False,True
+0x335eEEF8e93A7A757D9e7912044d9cd264e2b2D8,,,,False,,,,,False,True
+0x3B0009071A0a9983E9AAb537FD8c9ad478310Aeb,,,,False,,,,,False,True
+0x3cD6ef508c1c448e293075f1dE2ae96a49e18895,,,,False,,,,,False,True
+0x4305b1372F1B244dA0b32aa2B6F8AE0A124B50B8,,,,False,,,,,False,True
+0x49358a824c66b64A2F0c8bB3c99DD73586afAb16,,,,False,,,,,False,True
+0x4EBa1cE155F9dc95D70e5ab2a94898b4F25266Ac,,,,False,,,,,False,True
+0x52b7c8857Be3853fA68e09D9Ba7a9ADf075040eA,,,,False,,,,,False,True
+0x536a6Ba0D913d5D6A4ce2C6eB7eD0de3c0f0b89E,,,,False,,,,,False,True
+0x57D02550f47dd932d2fB84E0aA883C9D8d53C313,,,,False,,,,,False,True
+0x64e80282Bbf9ff1B900c2042eaAaa6e3CecF6Cac,,,,False,,,,,False,True
+0x8a696CA798E65Aa54b6dAfCc811071Dde808C193,,,,False,,,,,False,True
+0x906047A5B110144e12aD2aAd35762A51f421492e,,,,False,,,,,False,True
+0x90f10470a7E90d9cB74Ceb57cC7AF22a8c4994FF,,,,False,,,,,False,True
+0xAF6240821a0CBb6e4B65E9fEEb4F79f737BbbD18,,,,False,,,,,False,True
+0xAe26f602Cd02cFA83f46f8eA90d6dCcCE5e208BA,,,,False,,,,,False,True
+0xBC2f7c79a95FDD5C0946c358450bBC61466ec3fd,,,,False,,,,,False,True
+0xF201D0a10EE5D5429aC8830dbCE2048b42D98C55,,,,False,,,,,False,True
+0xF91446EAD6AadD4321602B5790A6DB4d6F2a1930,,,,False,,,,,False,True
+0xFaD05ee13c8e0Ec94E5eE9Dc056DC451B2Ad6b1d,,,,False,,,,,False,True
+0xA31573be292BD03d36DB137B6C2AB6eAA3d5e572,,,,False,,,,,False,True
+0xAba49b563FeEd7F617ae2FCff86c3A6E8821c387,,,,False,,,,,False,True
+0xBCC6C0feF89b87a12773Db7a9a8ECBCCCcdb7aFF,,,,False,,,,,False,True
+0xc249fE0288E75e47e62B138de8D020c9fEE5A9F5,,,,False,,,,,False,True
+0xC601F6938c75C4Ca03EaAd570701d86E607771db,,,,False,,,,,False,True
+0xC94a6e7776BaDE5dA316CF6FD8c751Fb0D5c3C5E,,,,False,,,,,False,True
+0xd7bb68B0cE5893983e5a2511b87E083609eB6fF9,,,,False,,,,,False,True
+0xdb38ae75c5F44276803345f7F02e95A0aeEF5944,,,,False,,,,,False,True
